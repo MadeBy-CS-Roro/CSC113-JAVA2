@@ -11,7 +11,7 @@ This repository is a collection of my practical work in **Object-Oriented Progra
 ## 🗂️ Repository Highlights
 Based on the project structure, this repository demonstrates practical application in:
 
-*   **Weekly Labs (`Lab5` to `Lab9`):** Progressive exercises covering core OOP principles like Inheritance, Interfaces (e.g., Honda interface), and Abstract classes.
+*   **Weekly Labs (`Lab1` to `Lab11`):** Progressive exercises covering core OOP principles like Inheritance, Interfaces (e.g., Honda interface), and Abstract classes.
 *   **System Project (Station & Ticket Management):** A practical implementation of a ticketing system featuring custom classes (`Station`, `Ticket`) and custom Exception handling (`StationNotFoundException`).
 
 ## 🛠️ Key Skills & OOP Concepts Applied
