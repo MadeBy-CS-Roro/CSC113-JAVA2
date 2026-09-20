@@ -28,7 +28,7 @@ An interactive metro network simulation built entirely using strict Object-Orien
 
 ## 💻 Technologies & Tools
 *   **Language:** Java (100%)
-*   **Environment:** VS Code / IntelliJ IDEA
+*   **Environment:** VS Code / Replit
 *   **Focus:** Writing reusable, modular, and clean code.
 
 ## 💡 Why This Matters?
