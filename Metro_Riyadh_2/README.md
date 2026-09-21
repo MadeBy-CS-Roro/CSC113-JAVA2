@@ -14,7 +14,7 @@ The system continues to offer two main user experiences:
 ## 🚀 What's New in Phase 2
 - **Data Structures Upgrade:** All arrays from Phase 1 have been replaced with **Linked Lists** for dynamic data management.
 - **Graphical User Interface (GUI):** A fully functional GUI built with Java Swing (`JFrame`, `JPanel`, `JButton`, `JList`, `JProgressBar`, etc.) for an intuitive user experience.
-- **File Management:** Implemented saving and loading system progress using **binary object files**, allowing users to retain data between sessions[cite: 6].
+- **File Management:** Implemented saving and loading system progress using **binary object files**, allowing users to retain data between sessions.
 - **Exception Handling:** Robust error handling using checked (`IOException`, `ClassNotFoundException`, User-Defined `StationNotFoundException`) and unchecked (`NumberFormatException`, `IllegalArgumentException`) exceptions to validate user inputs and ensure system stability.
 - **Advanced Ticket System:** Expanded the ticket system to include different types, activation with dynamic QR code generation, and refund logic.
 
@@ -26,7 +26,7 @@ The system continues to offer two main user experiences:
 The application utilizes a single main `JFrame` (`MetroGui`) with dynamic switching of `JPanel`s to simulate navigation, and an on-demand `DisplayNetworkFrame` for comprehensive network reports.
 
 - **MetroGui (Main Frame):** Handles all logins, inputs, and task panels.
-- **DisplayNetworkFrame:** Displays detailed network data, total stations, profit, and station lists using `JList` and `JTextArea`[cite: 6].
+- **DisplayNetworkFrame:** Displays detailed network data, total stations, profit, and station lists using `JList` and `JTextArea`.
 
 ### Key Features Demonstrated
 - Exception Handling (Checked, Unchecked, User-Defined)
@@ -39,7 +39,7 @@ The application utilizes a single main `JFrame` (`MetroGui`) with dynamic switch
 ## 👥 Team Members & Division of Work
 - **Reema:** MetroGui JFrame main structure, management station panels, Ticket activation panel.
 - **Ghala:** Linked Lists implementation, Employee management panels, maintenance panel, displayMetroInfo JFrame.
-- **Nassrah:** All Passenger Panels except the Ticket activation panel[cite: 6].
+- **Nassrah:** All Passenger Panels except the Ticket activation panel.
 
 ---
 
